@@ -1,2 +1,2 @@
 # pagina-web
--Aquí estará mi primer proyecto utilizando GitHub
+- Aquí estará mi primer proyecto utilizando GitHub
